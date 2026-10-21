@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.tmp/
+models/*
+!models/cavity_cnn_tuned.pt
+*.pt
+*.history.json
+*.records.csv
+.streamlit/ 
+venv/
+virtual/
+_pycache_/
+*.pyc
+.env
+data/
